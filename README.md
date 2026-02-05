@@ -1,10 +1,10 @@
-# Mi Primera Aplicación (Android / Kotlin) 📱
+# Mi Primera Aplicación (Android / Kotlin) 
 
 Este proyecto es una aplicación nativa de Android desarrollada en **Kotlin** que demuestra la navegación entre múltiples pantallas (Activities) y el intercambio de datos entre ellas.
 
 El objetivo principal es implementar un flujo de 5 actividades utilizando **Intents** explícitos, **View Binding** para la gestión de vistas y la **Activity Result API** para devolver datos de un formulario.
 
-## 🚀 Características Principales
+##  Características Principales
 
 La aplicación consta de 5 pantallas interconectadas:
 
@@ -30,7 +30,7 @@ La aplicación consta de 5 pantallas interconectadas:
 
 ---
 
-## 🛠 Tecnologías y Conceptos Aplicados
+##  Tecnologías y Conceptos Aplicados
 
 * **Lenguaje:** Kotlin
 * **UI Toolkit:** XML Layouts
@@ -41,7 +41,7 @@ La aplicación consta de 5 pantallas interconectadas:
 
 ---
 
-## 📸 Estructura del Proyecto
+##  Estructura del Proyecto
 
 ```text
 com.example.miprimeraaplicacion
